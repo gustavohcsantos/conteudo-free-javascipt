@@ -1,2 +1,2 @@
-# meus-aprendizados-com-javascript
-Compartilho o que aprendi em cursos de forma simplificada. :)
+## Seja bem-vido(a)! 😃
+Compartilho o que aprendi em cursos de forma simplificada. 🙃
